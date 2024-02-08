@@ -14,7 +14,7 @@ I am second year CSE student, and a self learning developer to be. !
 
 ## 🌏 **CONNECT WITH ME**
 
-<a href="https://www.instagram.com/vasudev_shetty?igsh=MTFyYWY5NTVtYTY2Mw=="> 
+<a href="https://www.instagram.com/_vasudev_shetty_"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
 
