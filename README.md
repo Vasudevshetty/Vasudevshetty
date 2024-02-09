@@ -82,10 +82,9 @@ JSSSTU 3rd Sem - JAVA OOPS LAB (22CS320L)
 
 1. clone the repository:
 
-        ```bash
-        git clone https://github.com/Vasudevshetty/Java-OOPS.git
-
-    <hr>
+    ```bash
+    git clone https://github.com/Vasudevshetty/Java-OOPS.git
+<hr>
 
 ## 4. Data Structures Practice (Projects-Cpp) 🚀
 
@@ -110,8 +109,8 @@ Explore my solutions and implementations for various data structures, custom cla
 
    ```bash
    git clone https://github.com/Vasudevshetty/Projects-Cpp.git
-   <hr>
    ```
+<hr>
 
 ## 📊 GitHub Stats:
 
@@ -154,4 +153,6 @@ Explore my solutions and implementations for various data structures, custom cla
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-### Thanks for checking out my GitHub Profile! 🙏
+<hr>
+
+## Thanks for checking out my GitHub Profile! 🙏
