@@ -86,11 +86,11 @@ JSSSTU 3rd Sem - JAVA OOPS LAB (22CS320L)
     git clone https://github.com/Vasudevshetty/Java-OOPS.git
 <hr>
 
-## 4. Data Structures Practice (Projects-Cpp) 🚀
+### 4. Data Structures Practice (Projects-Cpp) 🚀
 
 Explore my solutions and implementations for various data structures, custom classes, and utility functions in C++. This repository reflects my journey of learning and practicing object-oriented programming with a focus on data structures.
 
-### Table of Contents
+#### Table of Contents
 - [ArrayADT](https://github.com/Vasudevshetty/Projects-Cpp/blob/main/ADT/Array/ArrayADT.h)
 - [Linkedlist](https://github.com/Vasudevshetty/Projects-Cpp/blob/main/ADT/list/Linkedlist.h)
 - [Matrices](https://github.com/Vasudevshetty/Projects-Cpp/blob/main/ADT/matrices/Matrices.h)
@@ -103,7 +103,7 @@ Explore my solutions and implementations for various data structures, custom cla
 - [String](https://github.com/Vasudevshetty/Projects-Cpp/blob/main/ADT/string/String.h)
 - [Trees](https://github.com/Vasudevshetty/Projects-Cpp/blob/main/ADT/trees/Trees.h)
 
-### Getting Started
+#### Getting Started
 
 1. Clone the repository:
 
