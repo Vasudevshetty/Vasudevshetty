@@ -16,7 +16,10 @@ I am second year CSE student, and a self learning coder. ⭐🤩
 
 ### 5. [C++ Data Structures header files](https://github.com/Vasudevshetty/Projects-Cpp.git)
 
+### 6. [Javascript Journey](https://github.com/Vasudevshetty/Javascript)
+
 #### [read more...](https://github.com/Vasudevshetty/Vasudevshetty/blob/main/PROJECTS.md)
+
 
 ## 📊 GitHub Stats:
 
