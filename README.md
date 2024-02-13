@@ -10,11 +10,11 @@ I am second year CSE student, and a self learning coder. ⭐🤩
 
 ### 2. [LCC-Projectify](https://github.com/Vasudevshetty/LCC-Projectify.git)
 
-### 2. [Data Structures and Algorithms Lab](https://github.com/Vasudevshetty/DS-Lab.git)
+### 3. [Data Structures and Algorithms Lab](https://github.com/Vasudevshetty/DS-Lab.git)
 
-### 3. [Object-Oriented Programming in Java Lab](https://github.com/Vasudevshetty/Java-OOPS.git)
+### 4. [Object-Oriented Programming in Java Lab](https://github.com/Vasudevshetty/Java-OOPS.git)
 
-### 4. [C++ Data Structures header files](https://github.com/Vasudevshetty/Projects-Cpp.git)
+### 5. [C++ Data Structures header files](https://github.com/Vasudevshetty/Projects-Cpp.git)
 
 #### [read more...](https://github.com/Vasudevshetty/Vasudevshetty/blob/main/PROJECTS.md)
 
