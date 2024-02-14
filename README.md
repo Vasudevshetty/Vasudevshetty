@@ -1,32 +1,28 @@
-﻿# Vasudevshetty
+﻿<h1 align="center"> Vasudevshetty😎 </h1>
 
-I am second year CSE student, and a self learning coder. ⭐🤩
+<h3 align="center">I am second year CSE student, and a self learning coder. ⭐🤩
+</h3>
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vasudevshetty&label=Profile%20views&color=0e75b6&style=flat" alt="Vasudevshetty" /> </p> -->
 
 <hr>
 
 ## 🚀 My Projects (Beginner level.🧑‍🎓)
 
 ### 1. [Java Data Structures Package](https://github.com/Vasudevshetty/javaDSA.git)
-
 ### 2. [LCC-Projectify](https://github.com/Vasudevshetty/LCC-Projectify.git)
-
 ### 3. [Data Structures and Algorithms Lab](https://github.com/Vasudevshetty/DS-Lab.git)
-
 ### 4. [Object-Oriented Programming in Java Lab](https://github.com/Vasudevshetty/Java-OOPS.git)
-
 ### 5. [C++ Data Structures header files](https://github.com/Vasudevshetty/Projects-Cpp.git)
-
 ### 6. [Javascript Journey](https://github.com/Vasudevshetty/Javascript)
-
-#### [read more...](https://github.com/Vasudevshetty/Vasudevshetty/blob/main/PROJECTS.md)
-
+#### [Explore more...](https://github.com/Vasudevshetty/Vasudevshetty/blob/main/PROJECTS.md)
 
 ## 📊 GitHub Stats:
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vasudevshetty&show_icons=true&locale=en" alt="Vasudevshetty" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vasudevshetty&" alt="Vasudevshetty" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vasudevshetty&show_icons=true&locale=en&layout=compact" alt="Vasudevshetty" /></p>
 ### 🏆 GitHub Trophies
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vasudevshetty" alt="Vasudevshetty" /></a> </p>
