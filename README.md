@@ -10,11 +10,12 @@
 ## 🚀 My Projects (Beginner level.🧑‍🎓)
 
 1. [Java Data Structures Package](https://github.com/Vasudevshetty/javaDSA.git)
-2. [LCC-Projectify](https://github.com/Vasudevshetty/LCC-Projectify.git)
-3. [Data Structures and Algorithms Lab](https://github.com/Vasudevshetty/DS-Lab.git)
-4. [Object-Oriented Programming in Java Lab](https://github.com/Vasudevshetty/Java-OOPS.git)
-5. [C++ Data Structures header files](https://github.com/Vasudevshetty/Projects-Cpp.git)
-6. [Javascript Journey](https://github.com/Vasudevshetty/Javascript)
+2. [Java GUI](https://github.com/Vasudevshetty/Java-GUI.git)
+3. [LCC-Projectify](https://github.com/Vasudevshetty/LCC-Projectify.git)
+4. [Data Structures and Algorithms Lab](https://github.com/Vasudevshetty/DS-Lab.git)
+5. [Object-Oriented Programming in Java Lab](https://github.com/Vasudevshetty/Java-OOPS.git)
+6. [C++ Data Structures header files](https://github.com/Vasudevshetty/Projects-Cpp.git)
+7. [Javascript Journey](https://github.com/Vasudevshetty/Javascript)
 
 ### [Explore more...](https://github.com/Vasudevshetty/Vasudevshetty/blob/main/PROJECTS.md)
 

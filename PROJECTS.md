@@ -29,6 +29,7 @@ Explore my Java solutions for various data structures lab questions. <br>
 (JSSSTU 3rd Sem (22CS36L))
 
 - [📚 Repository](https://github.com/Vasudevshetty/DS-Lab)
+
 ### Quick Links
 
 - [📚 Repository](https://github.com/Vasudevshetty/DS-Lab)
@@ -60,6 +61,7 @@ Explore my Java solutions for various data structures lab questions. <br>
 Explore my solutions and implementations for various Object-Oriented Programming concepts in Java.
 
 - [📚 Repository](https://github.com/Vasudevshetty/Java-OOPS)
+
 ### Table of Contents
 
 JSSSTU 3rd Sem - JAVA OOPS LAB (22CS320L)
@@ -90,7 +92,7 @@ JSSSTU 3rd Sem - JAVA OOPS LAB (22CS320L)
 ## 4. Data Structures Practice (Projects-Cpp) 🚀
 
 - [📚 Repository](https://github.com/Vasudevshetty/Projects-Cpp)
-Explore my solutions and implementations for various data structures, custom classes, and utility functions in C++. This repository reflects my journey of learning and practicing object-oriented programming with a focus on data structures.
+  Explore my solutions and implementations for various data structures, custom classes, and utility functions in C++. This repository reflects my journey of learning and practicing object-oriented programming with a focus on data structures.
 
 ### Table of Contents
 
@@ -121,20 +123,67 @@ Explore my solutions and implementations for various data structures, custom cla
 ### Introduction
 
 Welcome to my JavaScript learning journey! This repository captures my progress and hands-on experience in mastering JavaScript through practical projects. Each section corresponds to a different project, providing both code and insights into the concepts learned.
+
 - [📚 Repository](https://github.com/Vasudevshetty/Javascript)
 
 ### Project Details
 
 #### 1. Guess My Number Game
-   - Test your luck with this interactive number guessing game.
-   - Repository: [Guess My Number Game](https://github.com/Vasudevshetty/JavaScript/tree/main/Guess%20My%20Number)
+
+- Test your luck with this interactive number guessing game.
+- Repository: [Guess My Number Game](https://github.com/Vasudevshetty/JavaScript/tree/main/Guess%20My%20Number)
 
 #### 2. Modal Window
-   - Learn how to create and implement modal windows in web development.
-   - Repository: [Modal Window](https://github.com/Vasudevshetty/JavaScript/tree/main/Modal%20Window)
+
+- Learn how to create and implement modal windows in web development.
+- Repository: [Modal Window](https://github.com/Vasudevshetty/JavaScript/tree/main/Modal%20Window)
 
 #### 3. Pig Game
-   - Experience the Pig Game, a classic JavaScript-based dice game.
-   - Repository: [Pig Game](https://github.com/Vasudevshetty/JavaScript/tree/main/Pig%20Game)
+
+- Experience the Pig Game, a classic JavaScript-based dice game.
+- Repository: [Pig Game](https://github.com/Vasudevshetty/JavaScript/tree/main/Pig%20Game)
 
 <hr>
+
+## 6. Java GUI.
+
+Welcome to my Java GUI learning journey! This repository contains my progress in mastering graphical user interface (GUI) development using Java.
+
+### Table of Contents 📚
+
+1. Calculator Project 🧮
+
+   A simple calculator built using Java AWT. Supports basic binary operations and limited digit input. The project uses a custom NotationConvertor utility for expression evaluation.
+
+   - **Calculator Code:📱** [Calculator.java](https://github.com/Vasudevshetty/Java-GUI/blob/main/Projects/src/project/Calculator.java)
+   - **Utility Class:🗑️** [NotationConvertor.java](https://github.com/Vasudevshetty/Java-GUI/tree/main/Projects/src/project)
+
+     How to run 🧑‍💻 
+
+            java -cp .\Projects\bin\otherpackages\ .\Projects\src\project\Calculator.java
+
+2. AWT Basics Programs 🎨
+   : [(repo link🔗)](https://github.com/Vasudevshetty/Java-GUI/tree/main/awt)
+   - Explore additional AWT programs in the "Projects/src/project" directory, showcasing various features of Java Abstract Window Toolkit.
+
+### How to Run 🏃‍♂️
+
+- Compile (Recompile if needed) :
+
+         // for other packages.
+
+         cd .\Projects
+         javac -cp .\bin\otherpackages\ .\src\otherpackages\PackageName.java
+         
+         // for projects.
+
+         cd .\Projects
+         javac -cp .\bin\project\ .\src\project\ProjectName.java
+      
+- Run : 
+
+         dir : 'Java GUI'\
+         java -cp .\Projects\bin\otherpackages .\Projects\src\project\ProjectName.java 
+
+<hr>
+
