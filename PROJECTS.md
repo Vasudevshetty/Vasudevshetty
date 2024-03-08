@@ -187,3 +187,4 @@ Welcome to my Java GUI learning journey! This repository contains my progress in
 
 <hr>
 
+Should add my new projects asap.
