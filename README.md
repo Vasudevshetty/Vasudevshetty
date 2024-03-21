@@ -7,7 +7,7 @@
 
 <hr>
 
-## 🚀 My Projects (Beginner level.🧑‍🎓)
+## 🚀 My Learning Journey.... (Beginner level.🧑‍🎓)
 
 1. [Java Data Structures Package](https://github.com/Vasudevshetty/javaDSA.git)
 2. [Java GUI](https://github.com/Vasudevshetty/Java-GUI.git)
@@ -21,15 +21,7 @@
 
 ## 📊 GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vasudevshetty&show_icons=true&locale=en" alt="Vasudevshetty" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vasudevshetty&" alt="Vasudevshetty" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vasudevshetty&show_icons=true&locale=en&layout=compact" alt="Vasudevshetty" /></p>
-
-### 🏆 GitHub Trophies
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vasudevshetty" alt="Vasudevshetty" /></a> </p>
 
 ## 🌏 CONNECT WITH ME
 
