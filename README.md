@@ -20,8 +20,8 @@ Learning react and nodejs
 ### [Explore more...](https://github.com/Vasudevshetty/Vasudevshetty/blob/main/PROJECTS.md)
 
 ## 📊 GitHub Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vasudevshetty)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vasudevshetty&" alt="Vasudevshetty" /></p>
 
 ## 🌏 CONNECT WITH ME
 
