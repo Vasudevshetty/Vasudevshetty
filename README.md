@@ -1,5 +1,6 @@
 ﻿<h1 align="center"> Vasudevshetty😎 </h1>
 Learning react and nodejs
+started making projects 
 <h3 align="center">I am second year CSE student, and a self learning coder. ⭐🤩
 </h3>
 
