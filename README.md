@@ -6,7 +6,8 @@
 • 👯 I’m looking to collaborate on <b>cool project.</b><br/>
 • 💬 Ask me about <b>Full Stack(MERN)</b><br/>
 
-Currently working on <a href="https://studysyncs.netlify.app">Studysyncs | Get all your study materials</a>
+Currently working on <a href="https://studysyncs.netlify.app">Studysyncs | Get all your study materials</a><br/>
+Yet another simple project <a href="https://chatapp-mern-v1">Chatapp</a>
 
 # 📊 GitHub Stats
 
