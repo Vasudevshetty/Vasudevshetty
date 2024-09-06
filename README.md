@@ -8,6 +8,7 @@
 
 Currently working on <a href="https://studysyncs.netlify.app">Studysyncs | Get all your study materials</a><br/>
 Yet another simple project <a href="https://chatapp-mern-v1">Chatapp</a>
+Planning to learn aiml soon !
 
 # 📊 GitHub Stats
 
