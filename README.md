@@ -34,9 +34,17 @@ Projects will be added soon, below
 [![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white "Socket.IO")][repo]
 [![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white "Cloudinary")][repo]
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white "JWT")][repo]
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+## 🤖 **AI/ML**
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)][repo]
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)][repo]
+<img src="https://img.shields.io/badge/AIML-Loading%20...-FF6F61?style=for-the-badge&logo=python&logoColor=white" alt="AI/ML Loading"/>
+
+## 📦 **DEVOPS**
+<img src="https://img.shields.io/badge/DevOps-Loading%20...-00BFFF?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps Loading"/>
 
 ## 📅 **DATABASES**
-
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "MongoDB")][repo]
 
 ## 🎯 **PROGRAMMING LANGUAGES**
@@ -46,7 +54,6 @@ Projects will be added soon, below
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white "Java")][repo]
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")][repo]
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
 
 ## 🛠️ **TOOLS**
 
@@ -60,15 +67,6 @@ Projects will be added soon, below
 
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
 [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)][repo]
-
-## 🤖 **AI/ML**
-
-  <img src="https://img.shields.io/badge/AIML-Loading%20...-FF6F61?style=for-the-badge&logo=python&logoColor=white" alt="AI/ML Loading"/>
-
-
-## 📦 **DEVOPS**
-
-  <img src="https://img.shields.io/badge/DevOps-Loading%20...-00BFFF?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps Loading"/>
 
 
 ### **Thanks for checking out my GitHub Profile!** 🙏
