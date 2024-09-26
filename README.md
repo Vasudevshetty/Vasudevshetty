@@ -8,8 +8,6 @@
 - 👯 I’m looking to collaborate on <b>cool projects</b>.
 - 💬 Ask me about <b>Full Stack (MERN)</b> and <b>AI/ML</b>.
 
-Projects will be added soon, below
-
 ## 📊 GitHub Stats
 
 <p align="center">
