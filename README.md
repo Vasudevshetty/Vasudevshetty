@@ -1,12 +1,12 @@
 # Vasudev Shetty 😄
 
-
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
 - 🔭 I’m currently mastering <b>Full Stack Web Development</b>!
 - 🤖 I'm currently learning AI & ML.
 - 👯 I’m looking to collaborate on <b>cool projects</b>.
 - 💬 Ask me about <b>Full Stack (MERN)</b> and <b>AI/ML</b>.
+- 🌍 Started working on something that benifits few people.
 
 ## 📊 GitHub Stats
 
