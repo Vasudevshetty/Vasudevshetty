@@ -6,8 +6,7 @@
 - 🤖 I'm currently learning AI & ML, GenAI.
 - 👯 I’m looking to collaborate on <b>cool projects</b>.
 - 🌍 Working on something that benefits people.
-- 🚀 Exploring DevOps and Cloud Technologies.
-
+- 🚀 Exploring DevOps and Cloud Technologies
   
 ## 📊 GitHub Stats
 
