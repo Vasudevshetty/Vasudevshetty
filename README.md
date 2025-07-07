@@ -7,6 +7,7 @@
 - 👯 I’m looking to collaborate on impactful and production-grade projects.
 - 🌍 Focused on building tools that help developers and communities.
 - 🚀 Diving deeper into **DevOps**, **CI/CD**, and **Cloud Infrastructure**!
+- 
 
 ---
 
