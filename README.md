@@ -114,9 +114,6 @@
 - 🛍️ **[AnandBrothers](https://anandbrothersmysuru.in/)** – Fashion E-Commerce with AI Suggestions  
   _React + Express + AI chatbot + fashion analyzer_
 
-- 💼 **[SmartHRPro](https://smarthrpro.in/)** – Auditor SaaS  
-  _Payroll automation, client tools, built with MongoDB + Node_
-
 ---
 
 ### 🙌 Thanks for checking out my GitHub!  
